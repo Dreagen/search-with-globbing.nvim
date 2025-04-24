@@ -1,5 +1,5 @@
 # Description
-Search using grep and an optional globbing pattern - inspired by teej-dv telescope video https://www.youtube.com/watch?v=xdXE1tOT-qg&t=153s 
+Search using grep and an optional globbing pattern - inspired by teej-dv telescope video https://www.youtube.com/watch?v=xdXE1tOT-qg
 
 globbing pattern is inserted after 2 spaces
 
